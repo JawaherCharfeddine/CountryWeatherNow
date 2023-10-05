@@ -2,6 +2,6 @@
 CountryWeatherNow is a user-friendly a realtime weather application that provides instant access to weather data for selected country. Stay informed about current weather conditions, temperature, and forecasts for any city or country.
 
 # Run
-![result](execution result.png)
+![run](https://github.com/JawaherCharfeddine/CountryWeatherNow/blob/main/execution%20result.png)
 
 # Fisrt step: get the countries names 
