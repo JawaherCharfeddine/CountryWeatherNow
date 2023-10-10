@@ -5,7 +5,7 @@ import tkinter as tk
 from tkinter import ttk
 import requests
 
-# Make a GET request to the Restcountries API
+# Make a GET request to the Restcountries API 
 responsecountry = requests.get("https://restcountries.com/v3.1/all")
 
 # Check if the request was successful
